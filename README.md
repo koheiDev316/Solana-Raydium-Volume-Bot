@@ -19,7 +19,7 @@ This is a Solana trading bot designed to generate volume on the Raydium decentra
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/koheiDev/Solana-Raydium-Volume-Bot-main.git
+    git clone https://github.com/koheiDev316/Solana-Raydium-Volume-Bot-main.git
     cd Solana-Raydium-Volume-Bot-main
     ```
 
